@@ -1,4 +1,17 @@
 # MasterThesis-Meta
+
+## About
+
+| Course                           | Program                                                               |
+|----------------------------------|-----------------------------------------------------------------------|
+| [Masterproef (B-KUL-H04J4A)](https://onderwijsaanbod.kuleuven.be/syllabi/n/H04J4AN.htm#activetab=doelstellingen_idp34672)     | Master in de ingenieurswetenschappen: computerwetenschappen           |
+| [Master's Thesis (B-KUL-H0N17A)](https://onderwijsaanbod.kuleuven.be/syllabi/e/H0N17AE.htm#activetab=doelstellingen_idp598512) | Master of Engineering: Computer Science                               |
+| [Masterproef (B-KUL-H03H9A)](https://onderwijsaanbod.kuleuven.be/syllabi/n/H03H9AN.htm#activetab=doelstellingen_idp1592416)     | Master in de ingenieurswetenschappen: wiskundige ingenieurstechnieken |
+| [Master's Thesis (B-KUL-H0M89A)](https://onderwijsaanbod.kuleuven.be/syllabi/e/H0M89AE.htm#activetab=doelstellingen_idp117312) | Master of Mathematical Engineering                                    |
+| [Masterproef (B-KUL-G0G88A)](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0G88AN.htm#activetab=doelstellingen_idm1256784)     | Master in de toegepaste informatica                                   |
+
+## Inleiding
+
 Vooraleerst: Proficiat en hoera aan alle studenten die geselecteerd zijn om een thesis uit te werken bij de Computer Graphics Research Group. Hier vinden jullie een overzicht van hoe jullie tijdens de zomermaanden - naast van de zon of de tweede zit te genieten - al een ideale basis kunnen leggen voor het thesiswerk bij ons in de groep. Een gedetailleerde uitleg van hoe de begeleiding er tijdens het jaar zal uitzien (en wat de deliverables zijn) volgt later.
 
 Met vriendelijke groeten, tot gauw, en alvast heel veel succes,
