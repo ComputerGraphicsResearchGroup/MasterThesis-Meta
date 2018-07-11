@@ -21,10 +21,10 @@ De Computer Graphics Research Group
 ## Voorbereidend werk
 
 ### Papers
-Relevante literatuur voor graphics-topics kan gevonden worden op de website van [Ke-Seng Huang](http://kesen.realtimerendering.com/). Deze website geeft een goed overzicht van de recente researchliteratuur. Duik hierin om gedurende de vakantie zo breed mogelijk te lezen i.v.m. je onderwerp. Beperk je niet tot je eigen topic, maar probeer een zo breed mogelijk beeld van graphics te verwerven. Zeker aan te raden is alles wat min of meer betrekking kan hebben op je eigen onderwerp van de conferenties SIGGRAPH, SIGGRAPH Asia, en EUROGRAPHICS van de laatste 3 jaren te lezen.
+Relevante literatuur voor graphics-topics kan gevonden worden op de website van [Ke-Seng Huang](http://kesen.realtimerendering.com/). Deze website geeft een goed overzicht van de recente researchliteratuur. Duik hierin om gedurende de vakantie zo breed mogelijk te lezen over je onderwerp. Beperk je niet tot je eigen topic, maar probeer een zo breed mogelijk beeld van graphics te verwerven. Zeker aan te raden is alles wat min of meer betrekking kan hebben op je eigen onderwerp van de conferenties SIGGRAPH, SIGGRAPH Asia, en EUROGRAPHICS van de laatste jaren te lezen.
 
 ### Google Scholar
-Maak je vertrouwd met [Google Scholar](https://scholar.google.be/). Het is een excellente search engine om voorwaarts en achterwaarts te zoeken in referenties van artikels.
+Maak je vertrouwd met [Google Scholar](https://scholar.google.be/). Het is een excellente search engine om zowel voorwaarts en achterwaarts te zoeken in referenties van artikels.
 
 ### Fundamenten van Computergrafiek (B-KUL-G0Q66C)
 Indien je [Fundamenten van Computergrafiek (B-KUL-G0Q66C)](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0Q66CN.htm#activetab=doelstellingen_idp1547392) nog niet gevolgd hebt, is het absoluut noodzakelijk om dit bij te werken gedurende de zomervakantie. De vakinhoud van [Fundamenten van Computergrafiek (B-KUL-G0Q66C)](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0Q66CN.htm#activetab=doelstellingen_idp1547392) onder de knie hebben is het absolute minimum om aan een graphicsthesis te kunnen beginnen.
