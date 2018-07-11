@@ -27,7 +27,7 @@ Relevante literatuur voor graphics-topics kan gevonden worden op de website van 
 Maak je vertrouwd met [Google Scholar](https://scholar.google.be/). Het is een excellente search engine om voorwaarts en achterwaarts te zoeken in referenties van artikels.
 
 ### Fundamenten van Computergrafiek (B-KUL-G0Q66C)
-Indien je [Fundamenten van Computergrafiek (B-KUL-G0Q66C)](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0Q66CN.htm#activetab=doelstellingen_idp1547392) nog niet gevolgd hebt, is het absoluut noodzakelijk om dit bij te werken gedurende de zomervakantie. De vakinhoud van [Fundamenten van Computergrafiek (B-KUL-G0Q66C)](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0Q66CN.htm#activetab=doelstellingen_idp1547392) onder de knie hebben is het absolute minimum om aan graphicsthesis te kunnen beginnen.
+Indien je [Fundamenten van Computergrafiek (B-KUL-G0Q66C)](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0Q66CN.htm#activetab=doelstellingen_idp1547392) nog niet gevolgd hebt, is het absoluut noodzakelijk om dit bij te werken gedurende de zomervakantie. De vakinhoud van [Fundamenten van Computergrafiek (B-KUL-G0Q66C)](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0Q66CN.htm#activetab=doelstellingen_idp1547392) onder de knie hebben is het absolute minimum om aan een graphicsthesis te kunnen beginnen.
 
 Enkele nuttige bronnen die hierbij kunnen helpen. (Sommige boeken kan je voordelig aankopen bij Acco/Amazon, al zijn ook enkele kopijen in onze Graphics Bibliotheek beschikbaar):
 * **Boek**: *Fundamentals of Computer Graphics*, door Peter Shirley.
