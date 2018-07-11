@@ -32,7 +32,7 @@ Indien je [Fundamenten van Computergrafiek (B-KUL-G0Q66C)](https://onderwijsaanb
 ### Nuttige Bronnen
 Enkele nuttige bronnen die hierbij kunnen helpen. (Sommige boeken kan je voordelig aankopen bij Acco/Amazon, al zijn ook enkele kopijen in onze Graphics Bibliotheek beschikbaar):
 * **Boek**: *Fundamentals of Computer Graphics*, door Peter Shirley.
-* **Boek**: *Ray Tracing from the Ground Up*, Kevin Suffern
+* **Boek**: *Ray Tracing from the Ground Up*, door Kevin Suffern
 * **Boek**: *Physically Based Rendering: From Theory to implementation*, door Matt Phar, Wenzel Jakob en Greg Humphreys
 * **Online**: Op [Udacity](https://eu.udacity.com/course/interactive-3d-graphics--cs291) is er een MOOC (Massive Online Open Course) te vinden van Eric Haines, over de fundamenten van Computer Graphics. Deze is nuttig voor de verklarende filmpjes en uitleg - de oefeningen met *three.js* mag je maken voor de pure graphicspret, maar zijn minder belangrijk met het oog op je thesis.
 
